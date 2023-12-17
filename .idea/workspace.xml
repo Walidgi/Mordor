@@ -4,173 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fcf203c-966e-4ad0-9ea4-c91c0e6182cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dialogs/dialog_box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dialogs/dialog_box_info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Frostbite.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/anirb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/mono.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Building01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Building02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Building03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Building04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Enemy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Ground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Inventory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack1_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack1_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack2_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack2_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack3_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack3_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack4_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack4_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack5_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack5_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Attack_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite2_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite2_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite3_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite3_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite4_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite4_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite5_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite5_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite6_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite6_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_Sprite_R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/castle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/coinIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mana_potion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/manapotionIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/35x35_Rings/Ring_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/UML inv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/coin1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/helmet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/potion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/swordWood.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/upg_chest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/upg_dagger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/upg_helmet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/upg_shieldSmall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/RPG Nature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/RPG Nature.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/Water+.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/barrier.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/campagne2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/capture.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/champ.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/coin.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/comté.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eye-removebg-preview__4_-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eye.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eyeofsauron.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eyeofsauronbig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eyeofsaurontransparent-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eyeofsaurontransparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/eyeofsaurontransparent2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/farm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/farm.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/farm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/house.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/house2.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/interior.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/interior.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/interior2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/interior2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/mordor.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/mordor_wall.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/mordor_walls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/nature.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/nature_world2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/natureset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/sauronbig.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/sol mordor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/sol_mordor.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/stuff_mordor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/stuff_mordor.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/volcano.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/water.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/world.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/world2.tmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/cereal_cut.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/coin_sound.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/fire_sound.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/gandalf.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/hobbit_song.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/shadow_of_the_past.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/boss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/cereal1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/coin1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/coin2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/coin3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/farmer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/gandalf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/paul.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/player-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/projectile_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/projectile_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/projectile_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/projectile_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/ring1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites/robin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stuff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/sauron.mp4" afterDir="false" />
+    <list default="true" id="9fcf203c-966e-4ad0-9ea4-c91c0e6182cd" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,6 +152,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635787919942</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1686773063451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686773063451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,5 +172,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
